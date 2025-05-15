@@ -21,3 +21,4 @@ public class Fibonacci {
         generateFibonacci(n);
         scanner.close();
     }
+}
